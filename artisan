@@ -1,15 +1,25 @@
 #!/usr/bin/env php
 <?php
 
+/**
+ * translator:昌维 [867597730@qq.com]
+ * repository:https://github.com/cw1997/laravel-Simplified-Chinese
+ * Translated in 2016-11-09 21:14:47
+ */
+
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
+| 注册自动加载器
 |--------------------------------------------------------------------------
 |
 | Composer provides a convenient, automatically generated class loader
 | for our application. We just need to utilize it! We'll require it
 | into the script here so that we do not have to worry about the
 | loading of any our classes "manually". Feels great to relax.
+| Composer提供了一个方便的,自动为我们的应用程序生成的类的加载器
+| 因为我们在这个脚本中导入了这个文件，所以我们完全不需要担心如何手动加载我们自己的类
+| 这种感觉很轻松
 |
 */
 
@@ -20,11 +30,16 @@ $app = require_once __DIR__.'/bootstrap/app.php';
 /*
 |--------------------------------------------------------------------------
 | Run The Artisan Application
+| 运行Artisan应用
 |--------------------------------------------------------------------------
 |
 | When we run the console application, the current CLI command will be
 | executed in this console and the response sent back to a terminal
 | or another output device for the developers. Here goes nothing!
+| 当我们运行这个命令行应用的时候，
+| 这个CLI根命令将会在这个命令行中执行并且将响应发回给终端，
+| 或者发回给开发者的其他输出设备，
+| 这里将不会做任何事情。
 |
 */
 
@@ -38,11 +53,15 @@ $status = $kernel->handle(
 /*
 |--------------------------------------------------------------------------
 | Shutdown The Application
+| 关闭应用
 |--------------------------------------------------------------------------
 |
 | Once Artisan has finished running. We will fire off the shutdown events
 | so that any final work may be done by the application before we shut
 | down the process. This is the last thing to happen to the request.
+| 一旦这个应用运行完毕，我们将触发关闭事件，
+| 所以该应用的任何收尾工作都会在我们关闭这个进程前执行。
+| 这是这个请求该做的最后一件事情
 |
 */
 
