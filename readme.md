@@ -12,7 +12,7 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
-Laravel是一款有着表现力和优雅语法的WEB应用框架。我们相信开发将会是一次令人愉快，富有创造性的经历，这种经历的确令我们满意。Laravel尝试从许许多多的web项目中抽象出通用的简单的任务来帮助开发者摆脱烦恼。例如如下几点：
+Laravel是一款有着表现力和优雅语法的WEB应用框架。我们认为开发应当是一次令人愉快，富有创造性的经历，这种经历将让我们感到满足。Laravel尝试从许许多多的web项目中抽象出通用简单的组件来帮助开发者摆脱烦恼。例如：
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [简单快速的路由组件](https://laravel.com/docs/routing).
@@ -30,7 +30,7 @@ Laravel是一款有着表现力和优雅语法的WEB应用框架。我们相信�
 - [实时事件广播](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
-Laravel是易于理解，还很强大，提供了构建大型强健应用所需的各类工具，它是简单，优雅，创新的组合，并且提供给你构建任何应用所需的工具。
+Laravel是易于理解，还很强大，它提供了构建大型强健应用所需的各类工具，它是简单，优雅，创新的组合，并且提供给你构建任何应用所需的工具。
 
 
 ## Learning Laravel
