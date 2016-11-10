@@ -19,7 +19,6 @@ require('laravel-elixir-vue-2');
  | file for your application as well as publishing vendor resources.
  | Elixir为您的Laraval应用提供了一个干净流畅的API来定义一些简单的Gulp任务
  | 通常情况下，我们将会为你的应用像第三方发布资源一样的编译Sass文件
- | file for your application as well as publishing vendor resources.
  |
  */
 
