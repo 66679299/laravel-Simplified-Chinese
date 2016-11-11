@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * translator:昌维 <867597730@qq.com>
+ * repository:https://github.com/cw1997/laravel-Simplified-Chinese
+ * Translated as 2016-11-11 01:41:20
+ */
+
 return [
 
     /*

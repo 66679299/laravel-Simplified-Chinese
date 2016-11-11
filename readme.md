@@ -19,7 +19,7 @@ Laravel是一款有着表现力和优雅语法的WEB应用框架。我们认为�
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - [强大的依赖注入容器](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- 多种后端 [session](https://laravel.com/docs/session) 和 [cache](https://laravel.com/docs/cache) 存储解决方案.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - 语义化, 直观的 [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
