@@ -103,7 +103,13 @@ return [
     |
     */
 
-    'locale' => 'en',
+    // 'locale' => 'en',
+
+    /**
+     * 在https://github.com/cw1997/laravel-Simplified-Chinese
+     * 该仓库中加入了zh中文版语言包，可在resources/lang/zh目录下查看。
+     */
+    'locale' => 'zh',
 
     /*
     |--------------------------------------------------------------------------
