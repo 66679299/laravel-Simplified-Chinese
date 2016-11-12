@@ -17,7 +17,7 @@
 | for our application. We just need to utilize it! We'll require it
 | into the script here so that we do not have to worry about the
 | loading of any our classes "manually". Feels great to relax.
-| Composer提供了一个方便的,自动为我们的应用程序生成的类的加载器
+| Composer提供了一个方便的,自动为我们的应用程序生成类的加载器
 | 因为我们在这个脚本中导入了这个文件，
 | 所以我们完全不需要担心如何手动加载我们自己的类，这种感觉很轻松。
 |
