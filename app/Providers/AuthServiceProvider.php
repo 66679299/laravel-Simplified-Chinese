@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * translator:昌维 <867597730@qq.com>
+ * repository:https://github.com/cw1997/laravel-Simplified-Chinese
+ * Translated as 2016-11-12 15:20:07
+ */
+
 namespace App\Providers;
 
 use Illuminate\Support\Facades\Gate;
@@ -9,6 +15,7 @@ class AuthServiceProvider extends ServiceProvider
 {
     /**
      * The policy mappings for the application.
+     * 该应用的policy映射
      *
      * @var array
      */
@@ -18,6 +25,7 @@ class AuthServiceProvider extends ServiceProvider
 
     /**
      * Register any authentication / authorization services.
+     * 注册各种鉴定与授权服务
      *
      * @return void
      */

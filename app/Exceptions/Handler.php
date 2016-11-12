@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * translator:昌维 <867597730@qq.com>
+ * repository:https://github.com/cw1997/laravel-Simplified-Chinese
+ * Translated as 2016-11-12 15:02:01
+ */
+
 namespace App\Exceptions;
 
 use Exception;
@@ -10,6 +16,7 @@ class Handler extends ExceptionHandler
 {
     /**
      * A list of the exception types that should not be reported.
+     * 不需要被报告的异常类型列表
      *
      * @var array
      */
@@ -24,8 +31,10 @@ class Handler extends ExceptionHandler
 
     /**
      * Report or log an exception.
+     * 记录日志或者报告一个异常
      *
      * This is a great spot to send exceptions to Sentry, Bugsnag, etc.
+     * 这是一个很好的用于发送给Sentry, Bugsnag等的场所。
      *
      * @param  \Exception  $exception
      * @return void
@@ -37,6 +46,7 @@ class Handler extends ExceptionHandler
 
     /**
      * Render an exception into an HTTP response.
+     * 将异常信息打印在HTTP响应
      *
      * @param  \Illuminate\Http\Request  $request
      * @param  \Exception  $exception
@@ -49,6 +59,7 @@ class Handler extends ExceptionHandler
 
     /**
      * Convert an authentication exception into an unauthenticated response.
+     * 将一个未经授权的异常转换成一个未授权响应
      *
      * @param  \Illuminate\Http\Request  $request
      * @param  \Illuminate\Auth\AuthenticationException  $exception
