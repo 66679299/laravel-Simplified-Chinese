@@ -3,7 +3,7 @@
 /**
  * translator:昌维 <867597730@qq.com>
  * repository:https://github.com/cw1997/laravel-Simplified-Chinese
- * Translated as 2016-11-12 23:04:00
+ * Translated at 2016-11-12 23:04:00
  */
 
 return [

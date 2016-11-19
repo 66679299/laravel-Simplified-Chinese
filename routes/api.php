@@ -3,7 +3,7 @@
 /**
  * translator:昌维 <867597730@qq.com>
  * repository:https://github.com/cw1997/laravel-Simplified-Chinese
- * Translated as 2016-11-11 16:36:20
+ * Translated at 2016-11-11 16:36:20
  */
 
 use Illuminate\Http\Request;
